@@ -39,4 +39,13 @@ Now add yours!
 
 ---
 
+### Samwise Gamgeez-louise!
+[Samwise saying potatoes](https://media1.giphy.com/media/105OwsN7a4UQ2Q/200w.gif)
+```
+const codeMd = () => {
+    console.log("does this look like code?")
+}
+```
+---
+
 ### Cb34r was here
